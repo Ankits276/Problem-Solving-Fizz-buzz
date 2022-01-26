@@ -1,0 +1,10 @@
+Alg for form with useState
+Step 1 :-Create component for input field and login form
+step 2 :-In input component take input tag distructure props
+step 3 :-Export input component
+step 4 :-Import input component in login component
+step 5 :-Take input component for input fields
+step 5.1 :-After step 5 take attribute type,placeholder,name,onchangge,label
+Step 6 :- Use UseState for set the data and get the current data
+step 7 :-Onchange method for listen input data 
+Step 8 :- Create handel for set the data

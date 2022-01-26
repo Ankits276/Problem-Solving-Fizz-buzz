@@ -1,0 +1,30 @@
+.form {
+  border: 2px solid black;
+  margin: auto;
+  background-color: gray;
+}
+.input {
+  display: flex;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.input label {
+  width: 30%;
+}
+.input label {
+  width: 30%;
+}
+.input input {
+  width: 70%;
+}
+.Drop-down-list {
+  display: flex;
+  width: 16%;
+  margin-bottom: 5px;
+}
+.Drop-down-list label {
+  width: 30%;
+}
+.Drop-down-list option {
+  width: 70%;
+}
